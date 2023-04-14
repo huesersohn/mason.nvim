@@ -237,6 +237,7 @@ return {
   solhint = "mason-registry.index.solhint",
   solidity = "mason-registry.index.solidity",
   ["solidity-ls"] = "mason-registry.index.solidity-ls",
+  ["sonarlint-language-server"] = "mason-registry.index.sonarlint-language-server",
   sorbet = "mason-registry.index.sorbet",
   sourcery = "mason-registry.index.sourcery",
   ["spectral-language-server"] = "mason-registry.index.spectral-language-server",
